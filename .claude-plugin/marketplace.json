@@ -1,13 +1,16 @@
 {
   "name": "croqui",
-  "owner": { "name": "Erick Cardoso" },
-  "metadata": { "description": "Croqui: canvas de design, lousa, tarefas e sites (DevWeb) para agentes de IA." },
+  "owner": {
+    "name": "Erick Cardoso"
+  },
+  "metadata": {
+    "description": "Croqui: canvas de design, lousa, tarefas e sites (DevWeb) para agentes de IA."
+  },
   "plugins": [
     {
       "name": "croqui",
       "source": "./plugins/croqui",
       "description": "Conecta o Claude Code ao Croqui pela nuvem (login no navegador) e traz as skills de design, sites e tarefas.",
-      "version": "1.0.1",
       "category": "design"
     }
   ]
