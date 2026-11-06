@@ -1,0 +1,8 @@
+{
+  "name": "croqui",
+  "version": "1.0.0",
+  "description": "Croqui no Claude Code: o servidor MCP na nuvem (login com a sua conta do Croqui) e as skills croqui-canvas, croqui-site e croqui-tasks.",
+  "author": { "name": "Erick Cardoso" },
+  "homepage": "https://croqui.erickcardoso.com.br/docs/",
+  "keywords": ["design", "canvas", "mcp", "ui", "sites"]
+}
