@@ -2,7 +2,7 @@
   "mcpServers": {
     "croqui": {
       "type": "http",
-      "url": "https://croqui-api.erickcardoso.com.br/mcp?as=${CROQUI_AGENT_ROLE:-}"
+      "url": "https://croqui-api.erickcardoso.com.br/mcp"
     }
   }
 }

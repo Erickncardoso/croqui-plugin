@@ -7,7 +7,7 @@
       "name": "croqui",
       "source": "./plugins/croqui",
       "description": "Conecta o Claude Code ao Croqui pela nuvem (login no navegador) e traz as skills de design, sites e tarefas.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "design"
     }
   ]

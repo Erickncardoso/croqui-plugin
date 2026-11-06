@@ -21,11 +21,7 @@ Depois abra o Claude Code, rode `/mcp`, escolha **plugin:croqui:croqui** e cliqu
 
 ## Nome do agente no canvas
 
-Para a equipe saber quem é quem quando vários agentes trabalham juntos:
-
-```bash
-CROQUI_AGENT_ROLE=Designer claude
-```
+Para a equipe saber quem é quem quando vários agentes trabalham juntos, conecte só o servidor com `?as=` no endereço (veja abaixo), por exemplo `https://croqui-api.erickcardoso.com.br/mcp?as=Designer`.
 
 ## Só o servidor, sem as skills
 
